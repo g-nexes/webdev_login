@@ -141,11 +141,11 @@ form{
 	margin: 25px 0;
 	padding: 5px 0;
 	border-bottom: 2px solid red;
-	transition: .7s all;
-    -webkit-transition: .7s all;
-    -moz-transition: .7s all;
-    -o-transition: .7s all;
-    -ms-transition: .7s all;
+	transition: 1s all;
+    -webkit-transition: 1s all;
+    -moz-transition: 1s all;
+    -o-transition: 1s all;
+    -ms-transition: 1s all;
 }
 
 .input-div:hover{
