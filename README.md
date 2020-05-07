@@ -41,4 +41,4 @@ CREATE TABLE IF NOT EXISTS `details` (
 );
 ```
 
-### In case if above code doesn't work then import [student.sql](https://github.com/ganesh-hegde97/webdev_login/blob/master/student.sql) this file into your '**_phpmyadmin_**' or any database system you use!
+###### In case if above code doesn't work then import [student.sql](https://github.com/ganesh-hegde97/webdev_login/blob/master/student.sql) this file into your '**_phpmyadmin_**' or any database system you use!
