@@ -2,9 +2,9 @@
 A simple login page with HTML and PHP 
 
 
-## Database Creation Codes
+### Database Creation Codes
 
-###### Creation of '**_student_**' database
+##### Creation of '**_student_**' database
 
 ```sql
 CREATE DATABASE IF NOT EXISTS `student` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
@@ -13,7 +13,7 @@ CREATE DATABASE IF NOT EXISTS `student` DEFAULT CHARACTER SET latin1 COLLATE lat
 USE `student`; 
 ```
 
-###### Creation of '**_sign_**' table
+##### Creation of '**_sign_**' table
 ```sql
 DROP TABLE IF EXISTS `sign`;
 
@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS `sign` (
   PRIMARY KEY (`id`)
 );
 ```
-###### Creation of '**_details_**' table
+##### Creation of '**_details_**' table
 ```sql
 DROP TABLE IF EXISTS `details`;
 
