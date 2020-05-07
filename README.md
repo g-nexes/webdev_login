@@ -3,7 +3,7 @@ A simple login page with HTML and PHP
 
 
 
-## Database Creation Codes
+## Database Creation Code
 
 ```sql
 CREATE 
