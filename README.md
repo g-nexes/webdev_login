@@ -1,5 +1,5 @@
 # webdev_login
-A simple login page with HTML and PHP 
+A simple login page with HTML and PHP
 
 
 ### Database Creation Codes
@@ -40,3 +40,5 @@ CREATE TABLE IF NOT EXISTS `details` (
   PRIMARY KEY (`id`)
 );
 ```
+
+### In case if above code doesn't work then import [student.sql](https://github.com/ganesh-hegde97/webdev_login/blob/master/student.sql)
